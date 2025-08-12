@@ -67,35 +67,9 @@
               "RelativeDocumentMoniker": "API\\Migrations\\20250811195828_initialcreate.cs",
               "ToolTip": "F:\\Personal\\e-Dikuta\\API\\Migrations\\20250811195828_initialcreate.cs",
               "RelativeToolTip": "API\\Migrations\\20250811195828_initialcreate.cs",
-              "ViewState": "AgIAAAcAAAAA/f////8pwBUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAACA/v////87wBUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T20:02:19.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-11T19:13:09.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
-              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-11T19:13:02.359Z",
               "EditorCaption": ""
             },
             {
@@ -108,8 +82,7 @@
               "RelativeToolTip": "API\\Repositories\\RepositoryContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T18:31:39.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T18:31:39.788Z"
             },
             {
               "$type": "Document",
@@ -121,8 +94,7 @@
               "RelativeToolTip": "API\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T18:27:01.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T18:27:01.996Z"
             },
             {
               "$type": "Document",
@@ -134,8 +106,7 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AgIAAAEAAAAwzczMzMw0wAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T09:52:44.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T09:52:44.663Z"
             },
             {
               "$type": "Document",
@@ -147,8 +118,7 @@
               "RelativeToolTip": "API\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T09:52:43.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T09:52:43.013Z"
             },
             {
               "$type": "Document",
@@ -160,8 +130,35 @@
               "RelativeToolTip": "API\\API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-11T09:37:00.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T09:37:00.081Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T19:13:02.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T19:13:09.658Z"
             },
             {
               "$type": "Document",
@@ -171,8 +168,7 @@
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ViewState": "AgIAABoAAAAAAAAAAAAqwB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-08-11T09:38:07.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T09:38:07.083Z"
             },
             {
               "$type": "Document",
@@ -184,8 +180,7 @@
               "RelativeToolTip": "API\\obj\\Debug\\net7.0\\API.AssemblyInfo.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAkwA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T09:36:39.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T09:36:39.149Z"
             },
             {
               "$type": "Document",
@@ -197,8 +192,7 @@
               "RelativeToolTip": "API\\obj\\Debug\\net7.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T09:36:36.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T09:36:36.805Z"
             },
             {
               "$type": "Document",
@@ -210,12 +204,7 @@
               "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T09:34:05.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2025-08-11T09:34:05.038Z"
             }
           ]
         }

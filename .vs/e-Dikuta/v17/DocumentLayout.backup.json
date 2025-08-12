@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\Personal\\e-Dikuta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|f:\\personal\\e-dikuta\\api\\migrations\\20250811195828_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|solutionrelative:api\\migrations\\20250811195828_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|f:\\personal\\e-dikuta\\api\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|solutionrelative:api\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,11 +57,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "20250811195828_initialcreate.cs",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Migrations\\20250811195828_initialcreate.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20250811195828_initialcreate.cs",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\Migrations\\20250811195828_initialcreate.cs",
+              "RelativeToolTip": "API\\Migrations\\20250811195828_initialcreate.cs",
+              "ViewState": "AgIAAAcAAAAA/f////8pwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:02:19.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RepositoryContext.cs",
               "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Repositories\\RepositoryContext.cs",
               "RelativeDocumentMoniker": "API\\Repositories\\RepositoryContext.cs",
@@ -96,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "API\\Entities\\Product.cs",
@@ -109,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -122,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "API\\WeatherForecast.cs",
@@ -135,12 +152,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "API.csproj",
               "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
-              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\API.csproj*",
-              "RelativeToolTip": "API\\API.csproj*",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-11T09:37:00.081Z",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Microsoft.NET.EolTargetFrameworks.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
@@ -159,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "API.AssemblyInfo.cs",
               "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\obj\\Debug\\net7.0\\API.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "API\\obj\\Debug\\net7.0\\API.AssemblyInfo.cs",
@@ -172,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": ".NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
               "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\obj\\Debug\\net7.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
               "RelativeDocumentMoniker": "API\\obj\\Debug\\net7.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
@@ -185,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
