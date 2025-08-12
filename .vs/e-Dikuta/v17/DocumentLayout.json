@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Personal\\e-Dikuta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|f:\\personal\\e-dikuta\\api\\migrations\\20250811195828_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|solutionrelative:api\\migrations\\20250811195828_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|f:\\personal\\e-dikuta\\api\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|solutionrelative:api\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|f:\\personal\\e-dikuta\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|f:\\personal\\e-dikuta\\api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|solutionrelative:api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|f:\\personal\\e-dikuta\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|f:\\personal\\e-dikuta\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|f:\\personal\\e-dikuta\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|f:\\personal\\e-dikuta\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|f:\\personal\\e-dikuta\\api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDFF2D6-BB18-4660-8C89-54CC6E24544E}|API\\API.csproj|solutionrelative:api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Personal\\e-Dikuta\\API\\obj\\Debug\\net7.0\\API.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API\\obj\\Debug\\net7.0\\API.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Personal\\e-Dikuta\\API\\obj\\Debug\\net7.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API\\obj\\Debug\\net7.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250811195828_initialcreate.cs",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Migrations\\20250811195828_initialcreate.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20250811195828_initialcreate.cs",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\Migrations\\20250811195828_initialcreate.cs",
+              "RelativeToolTip": "API\\Migrations\\20250811195828_initialcreate.cs",
+              "ViewState": "AgIAAAcAAAAA/f////8pwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:02:19.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T19:13:09.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T19:13:02.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Repositories\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "API\\Repositories\\RepositoryContext.cs",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\Repositories\\RepositoryContext.cs",
+              "RelativeToolTip": "API\\Repositories\\RepositoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:31:39.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Product.cs",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\Entities\\Product.cs",
+              "RelativeToolTip": "API\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:27:01.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAEAAAAwzczMzMw0wAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:52:44.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API\\WeatherForecast.cs",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\WeatherForecast.cs",
+              "RelativeToolTip": "API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:52:43.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "API.csproj",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T09:37:00.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-11T09:38:07.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "API.AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\obj\\Debug\\net7.0\\API.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "API\\obj\\Debug\\net7.0\\API.AssemblyInfo.cs",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\obj\\Debug\\net7.0\\API.AssemblyInfo.cs",
+              "RelativeToolTip": "API\\obj\\Debug\\net7.0\\API.AssemblyInfo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:36:39.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\obj\\Debug\\net7.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "API\\obj\\Debug\\net7.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\obj\\Debug\\net7.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "API\\obj\\Debug\\net7.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:36:36.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\Personal\\e-Dikuta\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\Personal\\e-Dikuta\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T09:34:05.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
