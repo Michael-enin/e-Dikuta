@@ -1,3 +1,6 @@
+using System.Data.Entity;
+using API.Entities;
+using API.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API
@@ -6,15 +9,21 @@ namespace API
     [Route("[controller]")]
     public class ProductsController : ControllerBase
     {
-        [HttpGet]
-        public string GetProducts()
+        private readonly RepositoryContext _productRepository;
+        public ProductsController(RepositoryContext repositoryContext)
         {
-            return "these are products";
+            _productRepository = repositoryContext;
+        }
+
+        [HttpGet]
+        public async Task<ActionResult<List<Product>>> GetProducts()
+        {
+            return await _productRepository.Products.ToListAsync();
         }
         [HttpGet("{id}")]
-        public string GetProduct(int id)
+        public async Task<ActionResult<Product>> GetProduct(int id)
         {
-            return "this is a product";
+            return Ok(await _productRepository.Products.FindAsync(id));
         }
 
 
