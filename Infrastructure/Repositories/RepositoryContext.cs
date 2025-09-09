@@ -1,6 +1,7 @@
-﻿using API.Entities;
+﻿
+using Core.Entities;
 using Microsoft.EntityFrameworkCore;
-namespace API.Repositories
+namespace Infrastructure.Repositories
 {
     public class RepositoryContext : DbContext
     {

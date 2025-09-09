@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "API.ProductsController",
+    "ContainingType": "Infrastructure.ProductsController",
     "Method": "GetProducts",
     "RelativePath": "Products",
     "HttpMethod": "GET",
@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "System.Collections.Generic.List\u00601[[Core.Entities.Product, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "ContainingType": "API.ProductsController",
+    "ContainingType": "Infrastructure.ProductsController",
     "Method": "GetProduct",
     "RelativePath": "Products/{id}",
     "HttpMethod": "GET",
@@ -35,7 +35,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "Core.Entities.Product",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "ContainingType": "API.Controllers.WeatherForecastController",
+    "ContainingType": "Infrastructure.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
     "HttpMethod": "GET",
@@ -55,7 +55,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[API.WeatherForecast, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Infrastructure.WeatherForecast, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

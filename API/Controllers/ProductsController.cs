@@ -1,9 +1,9 @@
-using System.Data.Entity;
-using API.Entities;
-using API.Repositories;
+using Core.Entities;
+using Infrastructure.Repositories;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
-namespace API
+namespace Infrastructure
 {
     [ApiController]
     [Route("[controller]")]
