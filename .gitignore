@@ -123,7 +123,9 @@ ipch/
 *.vsp
 *.vspx
 *.sap
-
+*.dll
+*.vs/
+*.cache
 # Visual Studio Trace Files
 *.e2e
 
@@ -357,9 +359,26 @@ ASALocalRun/
 
 # MSBuild Binary and Structured Log
 *.binlog
-
+bin/
+obj/
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
+
+# Build artifacts
+# Build output
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# EF Core migrations (optional if you don’t want to keep them in Git)
+**/Migrations/
+
+# SQLite database
+*.db
+
 
 # MFractors (Xamarin productivity tool) working folder
 .mfractor/
