@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "WavePro Headphones",
+    "Description": "Noise-cancelling over-ear headphones with crystal-clear sound.",
+    "PictureUrl": "https://picsum.photos/200?random=1",
+    "Price": 149.99,
+    "BrandId": 0,
+    "TypesId": 4
+  },
+  {
+    "Name": "QuantumTech Ultrabook",
+    "Description": "Lightweight, powerful laptop designed for productivity and creativity.",
+    "PictureUrl": "https://picsum.photos/200?random=2",
+    "Price": 999.99,
+    "BrandId": 8,
+    "TypesId": 1
+  },
+  {
+    "Name": "VisionX 4K TV",
+    "Description": "Ultra HD 4K Smart TV with HDR support and sleek design.",
+    "PictureUrl": "https://picsum.photos/200?random=3",
+    "Price": 749.99,
+    "BrandId": 10,
+    "TypesId": 3
+  },
+  {
+    "Name": "TimeLink Smartwatch X1",
+    "Description": "Track your fitness, heart rate, and notifications on the go.",
+    "PictureUrl": "https://picsum.photos/200?random=4",
+    "Price": 199.99,
+    "BrandId": 3,
+    "TypesId": 7
+  },
+  {
+    "Name": "BoltRush Energy Drink",
+    "Description": "High-performance energy drink with electrolytes and natural caffeine.",
+    "PictureUrl": "https://picsum.photos/200?random=5",
+    "Price": 2.49,
+    "BrandId": 2,
+    "TypesId": 10
+  },
+  {
+    "Name": "EchoWave Bluetooth Speaker",
+    "Description": "Portable Bluetooth speaker with deep bass and water resistance.",
+    "PictureUrl": "https://picsum.photos/200?random=6",
+    "Price": 59.99,
+    "BrandId": 9,
+    "TypesId": 6
+  },
+  {
+    "Name": "EchoMic Studio",
+    "Description": "Professional-grade condenser microphone for studio-quality recording.",
+    "PictureUrl": "https://picsum.photos/200?random=7",
+    "Price": 129.99,
+    "BrandId": 5,
+    "TypesId": 8
+  },
+  {
+    "Name": "PlayForge Console",
+    "Description": "Next-gen gaming console with ultra-fast load times and 8K support.",
+    "PictureUrl": "https://picsum.photos/200?random=8",
+    "Price": 599.99,
+    "BrandId": 8,
+    "TypesId": 9
+  },
+  {
+    "Name": "ChronoPulse Watch",
+    "Description": "Luxury wristwatch with stainless steel frame and sapphire glass.",
+    "PictureUrl": "https://picsum.photos/200?random=9",
+    "Price": 349.99,
+    "BrandId": 3,
+    "TypesId": 2
+  },
+  {
+    "Name": "NovaCell Smartphone",
+    "Description": "High-performance smartphone with advanced AI camera features.",
+    "PictureUrl": "https://picsum.photos/200?random=10",
+    "Price": 799.99,
+    "BrandId": 8,
+    "TypesId": 5
+  }
+]
