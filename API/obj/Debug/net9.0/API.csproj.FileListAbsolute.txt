@@ -2,6 +2,8 @@ F:\Personal\e-Dikuta\API\bin\Debug\net9.0\appsettings.Development.json
 F:\Personal\e-Dikuta\API\bin\Debug\net9.0\appsettings.json
 F:\Personal\e-Dikuta\API\bin\Debug\net9.0\API.staticwebassets.endpoints.json
 F:\Personal\e-Dikuta\API\bin\Debug\net9.0\API.exe
+F:\Personal\e-Dikuta\API\bin\Debug\net9.0\SeedData\brands.json
+F:\Personal\e-Dikuta\API\bin\Debug\net9.0\SeedData\products.json
 F:\Personal\e-Dikuta\API\bin\Debug\net9.0\API.deps.json
 F:\Personal\e-Dikuta\API\bin\Debug\net9.0\API.runtimeconfig.json
 F:\Personal\e-Dikuta\API\bin\Debug\net9.0\API.dll
@@ -160,3 +162,4 @@ F:\Personal\e-Dikuta\API\obj\Debug\net9.0\refint\API.dll
 F:\Personal\e-Dikuta\API\obj\Debug\net9.0\API.pdb
 F:\Personal\e-Dikuta\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 F:\Personal\e-Dikuta\API\obj\Debug\net9.0\ref\API.dll
+F:\Personal\e-Dikuta\API\bin\Debug\net9.0\SeedData\productTypes.json

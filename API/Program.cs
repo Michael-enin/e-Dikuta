@@ -1,4 +1,5 @@
 using Core.Interfaces;
+using Infrastructure.DataStore;
 using Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,48 +13,50 @@ builder.Logging.ClearProviders();
 builder.Logging.AddConsole();
 builder.Logging.SetMinimumLevel(LogLevel.Information);
 // Register IloggerFactory
-builder.Services.AddSingleton<ILoggerFactory, LoggerFactory>();
+// builder.Services.AddSingleton<ILoggerFactory, LoggerFactory>();
 builder.Services.AddDbContext<RepositoryContext>((serviceProvider, options) =>
 {
     var loggerFactory = serviceProvider.GetRequiredService<ILoggerFactory>();
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"))
-            .UseLoggerFactory(loggerFactory)
-            .EnableSensitiveDataLogging()
-            .EnableDetailedErrors();
+            .UseLoggerFactory(loggerFactory);
+    // dont use enable sensitave data in production
+    if (builder.Environment.IsDevelopment())
+    {
+
+        options.EnableSensitiveDataLogging()
+             .EnableDetailedErrors();
+    }
 });
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
-
 var app = builder.Build();
 // Check and apply migrations 
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<RepositoryContext>();
-    var logger = scope.ServiceProvider.GetService<ILogger<ProductRepository>>();
+    var loggerFactory = scope.ServiceProvider.GetRequiredService<ILoggerFactory>();
+    var logger = loggerFactory.CreateLogger<Program>();
+
     try
     {
-        var pendingMigrations = dbContext.Database.GetPendingMigrations();
+        var pendingMigrations = await dbContext.Database.GetPendingMigrationsAsync();
         if (pendingMigrations.Any())
         {
-            logger!.LogInformation("Pending migrations Deta");
-            foreach (var mg in pendingMigrations)
-            {
-                logger!.LogInformation("{Migrations}", mg);
-                dbContext.Database.Migrate();
-                logger!.LogInformation("Migration applied successfully");
-            }
-
+            logger.LogInformation("Applying {count} Pending migrations...", pendingMigrations.Count());
+            await dbContext.Database.MigrateAsync();
+            logger.LogInformation("Migration applied successfully");
         }
         else
         {
-            logger!.LogInformation("Database is up-to-date. No Migration is pending");
+            logger.LogInformation("Database is up-to-date. No Migration is pending");
         }
+        await SeedStoreContext.SeedAsync(dbContext, loggerFactory);
+        logger.LogInformation("Seeding data Completed");
     }
     catch (Exception ex)
     {
-        logger!.LogError(ex, "An error occured while checking/applying migrations");
+        logger.LogError(ex, "An error occured while seeding");
     }
 }
 
