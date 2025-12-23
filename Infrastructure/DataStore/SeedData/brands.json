@@ -1,40 +1,7 @@
 [
-  {
-        "Name": "EchoWave"
-  },
-  {
-       "Name": "EchoWave"
-  },
-  {
-       "Name": "BoltRush"
-  },
-  {
-   
-    "Name": "TimeLink"
-  },
-  {
-    "Name": "EchoWave"
-  },
-  {
-     "Name": "EchoWave"
-  },
-  {
-      "Name": "BoltRush"
-  },
-  {
-
-    "Name": "EchoWave"
-  },
-  {
-  
-    "Name": "QuantumTech"
-  },
-  {
-  
-    "Name": "EchoWave"
-  },
-  {
-
-    "Name": "VisionX"
-  }
+  {"Name": "EchoWave"},
+  {"Name": "BoltRush"},
+  {"Name": "TimeLink"},
+  {"Name": "QuantumTech"},
+  {"Name": "VisionX"}
 ]

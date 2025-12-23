@@ -1,12 +1,11 @@
 [
-  { "id": 1, "Name": "Laptop" },
-  { "id": 2, "Name": "Watch" },
-  { "id": 3, "Name": "TV" },
-  { "id": 4, "Name": "Headphones" },
-  { "id": 5, "Name": "Smartphone" },
-  { "id": 6, "Name": "Speaker" },
-  { "id": 7, "Name": "Smartwatch" },
-  { "id": 8, "Name": "Microphone" },
-  { "id": 9, "Name": "Gaming Console" },
-  { "id": 10, "Name": "Energy Drink" }
+  { "Name": "Laptop" },
+  { "Name": "Watch" },
+  { "Name": "TV" },
+  { "Name": "Headphones" },
+  { "Name": "Smartphone" },
+  { "Name": "Speaker" },
+  { "Name": "Microphone" },
+  { "Name": "Gaming Console" },
+  { "Name": "Energy Drink" }
 ]
